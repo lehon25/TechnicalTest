@@ -7,7 +7,7 @@
 1. Clone the repo:
 
    ```sh
-   
+   https://github.com/lehon25/TechnicalTest.git
    ```
 
 2. Go to directory main
